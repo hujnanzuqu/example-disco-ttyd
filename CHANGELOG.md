@@ -7,3 +7,5 @@ Generated documentation for example-disco-ttyd.
 # PR Merge: 2025-10-15 - refactor/merge-6442
 
 # PR Merge: 2025-10-15 - feature/merge-6167
+
+# PR Merge: 2025-10-15 - docs/merge-7891
